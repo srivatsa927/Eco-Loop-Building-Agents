@@ -1,0 +1,9 @@
+vendor/energyplus/
+.venv/
+__pycache__/
+*.pyc
+
+logs/baseline_raw/
+logs/ai_run_raw/
+logs/live_state.json
+logs/smoketest*/
